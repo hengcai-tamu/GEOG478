@@ -1,7 +1,6 @@
 
 # Choropleth Map
 
-##### Instructor: Yi Qiang <br/>Email: yi.qiang@hawaii.edu <br/>Oct. 25th, 2019
 ---
 This lesson will introduce how to LeafLet to create a chropleth map for polygon features. This lesson is modified from the [leaflet tutorial: Interactive Choropleth Map](https://leafletjs.com/examples/choropleth/) and Web Mapping by [Bo Zhao](https://github.com/jakobzhao)
 
