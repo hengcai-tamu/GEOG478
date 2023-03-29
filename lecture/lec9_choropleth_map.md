@@ -1,9 +1,6 @@
 
 # Choropleth Map
 
----
-This lesson will introduce how to LeafLet to create a chropleth map for polygon features. This lesson is modified from the [leaflet tutorial: Interactive Choropleth Map](https://leafletjs.com/examples/choropleth/) and Web Mapping by [Bo Zhao](https://github.com/jakobzhao)
-
 A choropleth map (from Greek χῶρος "area/region" and πλῆθος "multitude") is a thematic map in which areas are shaded or patterned in proportion to the measurement of the statistical variable being displayed on the map, such as population density or per-capita income. [More about choropleth map](https://en.wikipedia.org/wiki/Choropleth_map)
 
 <img src="images/fig9-5.jpg" width=1000>
